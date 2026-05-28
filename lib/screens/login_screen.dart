@@ -48,7 +48,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return AuthLayout(
       brandMark: Image.asset(
-        'assets/logo.png',
+        'assets/iconrm.png',
         width: 64,
         height: 64,
         fit: BoxFit.contain,
